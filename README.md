@@ -1,49 +1,24 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sheldon Niu! 👋
 
 ## 🙋‍♂️ About Me
-🎓 I'm a final year Computer Science student at XYZ University.\
-🌱 I’m currently learning Full Stack Development.\
-👯 I’m looking to collaborate on web development projects.\
-📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)\
-⚡ Fun fact: I love to play guitar.
 
-## 🔥 My contribution streak
+I am a graduate of the Department of Computer Science at the University of Science and Technology of China. Formerly, I was a web infrastructure engineer at ByteDance. Currently, I am working at [AirCode](https://aircode.io/), committed to the construction of the next Node.js development platform, aiming to make R&D simpler and more efficient.
 
-<p align="center">
-  <a href="https://github.com/[username]/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]#version3"/>
-  </a>
-</p>
+In addition to my work at AirCode, I am also developing an independent project, [Raber](https://www.raber.app/). The goal of Raber is to free frontend engineers from the pain of CSS and to allow non-developers to participate directly in professional frontend development, unblocking the web development workflow from frontend engineers.
 
-## 💻 Languages and Tools 
+Apart from my work, I am also an active content creator. I have over 70,000 followers on my [Zhihu](https://www.zhihu.com/people/niu-dai-68-44). In my free time, I enjoy playing guitar and engaging in arranging music, and I have some understanding of music theory and composition software.
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
+If you are interested in what I do and would like to get in touch, feel free to reach out through email.
 
-## 📊 Github Stats
+## 🌟 Interests
+- 🎸 Playing guitar
+- 🎼 Arranging music
+- 💻 Web development
 
-<a href='https://github.com/[username]/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/[username]/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/[username]/github-stats-transparent/output/generated/languages.svg)
+## 🌐 Find me elsewhere
+  - [AirCode](https://aircode.io/)
+  - [Raber](https://www.raber.app/)
+  - [Zhihu](https://www.zhihu.com/people/niu-dai-68-44)
 
-</a>
-
-## 🌟 Social
-
-<p align="center">
-  <a href="https://github.com/[username]">
-    <img src="https://img.shields.io/github/followers/[username]?label=follow&style=social"/>
-  </a>
-  <a href="https://twitter.com/[username]">
-    <img src="https://img.shields.io/twitter/follow/[username]?label=follow&style=social"/>
-  </a>
-  <a href="https://www.linkedin.com/in/[username]">
-    <img src="https://img.shields.io/badge/-[username]-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-</p>
-
+## 📫 Contact Me
+Feel free to email me for any work or suggestions [email@example.com](mailto:email@example.com)
