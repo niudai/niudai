@@ -4,8 +4,6 @@
 
 I'm a graduate of the Department of Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Formerly a web infrastructure engineer at ByteDance, I'm currently the founder of [AskYourDatabase](https://www.askyourdatabase.com/), helping 1000+ CEO/CTOs to get insights without the help of developers.
 
-In addition, I'm the creator of [Raber](https://www.raber.app/), a project aiming to simplify web development and democratize the creation of professional frontends.
-
 I also share my insights and interact with over 70,000 followers on [Zhihu](https://www.zhihu.com/people/niu-dai-68-44).
 
 In my spare time, I enjoy playing guitar and exploring music arrangement and theory.
